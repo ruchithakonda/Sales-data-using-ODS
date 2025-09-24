@@ -1,5 +1,5 @@
 # Sales-data-using-ODS
-The sales data was extracted from Kaggle .In this dataset I used the SAS ODS Templates,title,footnotes,labels,annotations and showing charts.Here i used sales by region for bar chart and  slaes over time for line chart.I used template as define style outtemp.
+The sales data was extracted from Kaggle .In this dataset I used the SAS ODS Templates,title,footnotes,labels,annotations and showing charts.Here I used sales by region for bar chart and  sales over time for line chart.I used template as define style outtemp.
 
 / Import  the data from csv*/
 proc import datafile="C:\yourpath\sales_data.csv" 
